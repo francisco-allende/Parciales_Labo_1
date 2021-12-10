@@ -1,0 +1,565 @@
+# depslib dependency file v1.0
+1634787010 source:c:\users\usuario\desktop\utn tecnicatura\1er cuatri\programacion y lab i\1er parcial\mi parcial\miparcial\auto.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"auto.h"
+	"marca.h"
+	"color.h"
+	"servicio.h"
+	"trabajo.h"
+
+1634789286 c:\users\usuario\desktop\utn tecnicatura\1er cuatri\programacion y lab i\1er parcial\mi parcial\miparcial\auto.h
+	"marca.h"
+	"color.h"
+	"servicio.h"
+	"trabajo.h"
+
+1634775235 c:\users\usuario\desktop\utn tecnicatura\1er cuatri\programacion y lab i\1er parcial\mi parcial\miparcial\marca.h
+
+1634775252 c:\users\usuario\desktop\utn tecnicatura\1er cuatri\programacion y lab i\1er parcial\mi parcial\miparcial\color.h
+
+1634789286 c:\users\usuario\desktop\utn tecnicatura\1er cuatri\programacion y lab i\1er parcial\mi parcial\miparcial\servicio.h
+
+1634774982 c:\users\usuario\desktop\utn tecnicatura\1er cuatri\programacion y lab i\1er parcial\mi parcial\miparcial\trabajo.h
+
+1634778382 source:c:\users\usuario\desktop\utn tecnicatura\1er cuatri\programacion y lab i\1er parcial\mi parcial\miparcial\color.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"auto.h"
+	"marca.h"
+	"color.h"
+	"servicio.h"
+	"trabajo.h"
+
+1634778387 source:c:\users\usuario\desktop\utn tecnicatura\1er cuatri\programacion y lab i\1er parcial\mi parcial\miparcial\marca.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"auto.h"
+	"marca.h"
+	"color.h"
+	"servicio.h"
+	"trabajo.h"
+
+1634789483 source:c:\users\usuario\desktop\utn tecnicatura\1er cuatri\programacion y lab i\1er parcial\mi parcial\miparcial\servicio.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"auto.h"
+	"marca.h"
+	"color.h"
+	"servicio.h"
+	"trabajo.h"
+
+1634789489 source:c:\users\usuario\desktop\utn tecnicatura\1er cuatri\programacion y lab i\1er parcial\mi parcial\miparcial\trabajo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"auto.h"
+	"marca.h"
+	"color.h"
+	"servicio.h"
+	"trabajo.h"
+
+1634788410 source:c:\users\usuario\desktop\utn tecnicatura\1er cuatri\programacion y lab i\1er parcial\mi parcial\miparcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"auto.h"
+	"marca.h"
+	"color.h"
+	"servicio.h"
+	"trabajo.h"
+
+1635225780 source:c:\users\usuario\desktop\utn tecnicatura\1er cuatri\programacion y lab i\1er parcial\mi parcial 22222222222\miparcial\auto.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"auto.h"
+	"marca.h"
+	"color.h"
+	"servicio.h"
+	"trabajo.h"
+
+1635225280 c:\users\usuario\desktop\utn tecnicatura\1er cuatri\programacion y lab i\1er parcial\mi parcial 22222222222\miparcial\auto.h
+	"marca.h"
+	"color.h"
+	"servicio.h"
+	"trabajo.h"
+
+1634775235 c:\users\usuario\desktop\utn tecnicatura\1er cuatri\programacion y lab i\1er parcial\mi parcial 22222222222\miparcial\marca.h
+
+1634775252 c:\users\usuario\desktop\utn tecnicatura\1er cuatri\programacion y lab i\1er parcial\mi parcial 22222222222\miparcial\color.h
+
+1634789286 c:\users\usuario\desktop\utn tecnicatura\1er cuatri\programacion y lab i\1er parcial\mi parcial 22222222222\miparcial\servicio.h
+
+1634774982 c:\users\usuario\desktop\utn tecnicatura\1er cuatri\programacion y lab i\1er parcial\mi parcial 22222222222\miparcial\trabajo.h
+
+1635199099 source:c:\users\usuario\desktop\utn tecnicatura\1er cuatri\programacion y lab i\1er parcial\mi parcial 22222222222\miparcial\color.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"auto.h"
+	"marca.h"
+	"color.h"
+	"servicio.h"
+	"trabajo.h"
+
+1635224578 source:c:\users\usuario\desktop\utn tecnicatura\1er cuatri\programacion y lab i\1er parcial\mi parcial 22222222222\miparcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"auto.h"
+	"marca.h"
+	"color.h"
+	"servicio.h"
+	"trabajo.h"
+
+1634778387 source:c:\users\usuario\desktop\utn tecnicatura\1er cuatri\programacion y lab i\1er parcial\mi parcial 22222222222\miparcial\marca.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"auto.h"
+	"marca.h"
+	"color.h"
+	"servicio.h"
+	"trabajo.h"
+
+1634789682 source:c:\users\usuario\desktop\utn tecnicatura\1er cuatri\programacion y lab i\1er parcial\mi parcial 22222222222\miparcial\servicio.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"auto.h"
+	"marca.h"
+	"color.h"
+	"servicio.h"
+	"trabajo.h"
+
+1635225566 source:c:\users\usuario\desktop\utn tecnicatura\1er cuatri\programacion y lab i\1er parcial\mi parcial 22222222222\miparcial\trabajo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"auto.h"
+	"marca.h"
+	"color.h"
+	"servicio.h"
+	"trabajo.h"
+
+1635301307 source:c:\users\usuario\desktop\utn tecnicatura\1er cuatri\programacion y lab i\1er parcial\mi parcial 22222222222\lo mismo con datawarehouse\auto.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"auto.h"
+	"marca.h"
+	"color.h"
+	"servicio.h"
+	"trabajo.h"
+
+1635285332 c:\users\usuario\desktop\utn tecnicatura\1er cuatri\programacion y lab i\1er parcial\mi parcial 22222222222\lo mismo con datawarehouse\auto.h
+	"marca.h"
+	"color.h"
+	"servicio.h"
+	"trabajo.h"
+
+1634775235 c:\users\usuario\desktop\utn tecnicatura\1er cuatri\programacion y lab i\1er parcial\mi parcial 22222222222\lo mismo con datawarehouse\marca.h
+
+1634775252 c:\users\usuario\desktop\utn tecnicatura\1er cuatri\programacion y lab i\1er parcial\mi parcial 22222222222\lo mismo con datawarehouse\color.h
+
+1634789286 c:\users\usuario\desktop\utn tecnicatura\1er cuatri\programacion y lab i\1er parcial\mi parcial 22222222222\lo mismo con datawarehouse\servicio.h
+
+1635287679 c:\users\usuario\desktop\utn tecnicatura\1er cuatri\programacion y lab i\1er parcial\mi parcial 22222222222\lo mismo con datawarehouse\trabajo.h
+
+1635279249 source:c:\users\usuario\desktop\utn tecnicatura\1er cuatri\programacion y lab i\1er parcial\mi parcial 22222222222\lo mismo con datawarehouse\color.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"auto.h"
+	"marca.h"
+	"color.h"
+	"servicio.h"
+	"trabajo.h"
+
+1634778387 source:c:\users\usuario\desktop\utn tecnicatura\1er cuatri\programacion y lab i\1er parcial\mi parcial 22222222222\lo mismo con datawarehouse\marca.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"auto.h"
+	"marca.h"
+	"color.h"
+	"servicio.h"
+	"trabajo.h"
+
+1634789682 source:c:\users\usuario\desktop\utn tecnicatura\1er cuatri\programacion y lab i\1er parcial\mi parcial 22222222222\lo mismo con datawarehouse\servicio.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"auto.h"
+	"marca.h"
+	"color.h"
+	"servicio.h"
+	"trabajo.h"
+
+1635309617 source:c:\users\usuario\desktop\utn tecnicatura\1er cuatri\programacion y lab i\1er parcial\mi parcial 22222222222\lo mismo con datawarehouse\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"auto.h"
+	"marca.h"
+	"color.h"
+	"servicio.h"
+	"trabajo.h"
+	"informes.h"
+
+1635276633 source:c:\users\usuario\desktop\utn tecnicatura\1er cuatri\programacion y lab i\1er parcial\mi parcial 22222222222\lo mismo con datawarehouse\trabajo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"auto.h"
+	"marca.h"
+	"color.h"
+	"servicio.h"
+	"trabajo.h"
+
+1635301760 source:c:\users\usuario\desktop\utn tecnicatura\1er cuatri\programacion y lab i\1er parcial\mi parcial 22222222222\lo mismo con datawarehouse\datawarehouseautos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"auto.h"
+	"marca.h"
+	"color.h"
+	"servicio.h"
+	"trabajo.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1635288947 source:c:\users\usuario\desktop\utn tecnicatura\1er cuatri\programacion y lab i\1er parcial\mi parcial 22222222222\lo mismo con datawarehouse\datawarehousetrabajos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"auto.h"
+	"marca.h"
+	"color.h"
+	"servicio.h"
+	"trabajo.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1635309865 source:c:\users\usuario\desktop\utn tecnicatura\1er cuatri\programacion y lab i\1er parcial\mi parcial 22222222222\lo mismo con datawarehouse\informes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"auto.h"
+	"marca.h"
+	"color.h"
+	"servicio.h"
+	"trabajo.h"
+	"informes.h"
+
+1635309655 c:\users\usuario\desktop\utn tecnicatura\1er cuatri\programacion y lab i\1er parcial\mi parcial 22222222222\lo mismo con datawarehouse\informes.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"auto.h"
+	"marca.h"
+	"color.h"
+	"servicio.h"
+	"trabajo.h"
+
+1635337761 source:c:\users\usuario\desktop\utn tecnicatura\1er cuatri\programacion y lab i\1er parcial\mi parcial 22222222222\allende.francisco.p2lab1.1a\1er parcial lab 1 parte 2\auto.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"auto.h"
+	"marca.h"
+	"color.h"
+	"servicio.h"
+	"trabajo.h"
+
+1635336294 c:\users\usuario\desktop\utn tecnicatura\1er cuatri\programacion y lab i\1er parcial\mi parcial 22222222222\allende.francisco.p2lab1.1a\1er parcial lab 1 parte 2\auto.h
+	"marca.h"
+	"color.h"
+	"servicio.h"
+	"trabajo.h"
+
+1634775235 c:\users\usuario\desktop\utn tecnicatura\1er cuatri\programacion y lab i\1er parcial\mi parcial 22222222222\allende.francisco.p2lab1.1a\1er parcial lab 1 parte 2\marca.h
+
+1634775252 c:\users\usuario\desktop\utn tecnicatura\1er cuatri\programacion y lab i\1er parcial\mi parcial 22222222222\allende.francisco.p2lab1.1a\1er parcial lab 1 parte 2\color.h
+
+1634789286 c:\users\usuario\desktop\utn tecnicatura\1er cuatri\programacion y lab i\1er parcial\mi parcial 22222222222\allende.francisco.p2lab1.1a\1er parcial lab 1 parte 2\servicio.h
+
+1635287679 c:\users\usuario\desktop\utn tecnicatura\1er cuatri\programacion y lab i\1er parcial\mi parcial 22222222222\allende.francisco.p2lab1.1a\1er parcial lab 1 parte 2\trabajo.h
+
+1635341939 source:c:\users\usuario\desktop\utn tecnicatura\1er cuatri\programacion y lab i\1er parcial\mi parcial 22222222222\allende.francisco.p2lab1.1a\1er parcial lab 1 parte 2\color.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"auto.h"
+	"marca.h"
+	"color.h"
+	"servicio.h"
+	"trabajo.h"
+
+1635301760 source:c:\users\usuario\desktop\utn tecnicatura\1er cuatri\programacion y lab i\1er parcial\mi parcial 22222222222\allende.francisco.p2lab1.1a\1er parcial lab 1 parte 2\datawarehouseautos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"auto.h"
+	"marca.h"
+	"color.h"
+	"servicio.h"
+	"trabajo.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1635288947 source:c:\users\usuario\desktop\utn tecnicatura\1er cuatri\programacion y lab i\1er parcial\mi parcial 22222222222\allende.francisco.p2lab1.1a\1er parcial lab 1 parte 2\datawarehousetrabajos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"auto.h"
+	"marca.h"
+	"color.h"
+	"servicio.h"
+	"trabajo.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1635346389 source:c:\users\usuario\desktop\utn tecnicatura\1er cuatri\programacion y lab i\1er parcial\mi parcial 22222222222\allende.francisco.p2lab1.1a\1er parcial lab 1 parte 2\informes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"auto.h"
+	"marca.h"
+	"color.h"
+	"servicio.h"
+	"trabajo.h"
+	"informes.h"
+
+1635346599 c:\users\usuario\desktop\utn tecnicatura\1er cuatri\programacion y lab i\1er parcial\mi parcial 22222222222\allende.francisco.p2lab1.1a\1er parcial lab 1 parte 2\informes.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"auto.h"
+	"marca.h"
+	"color.h"
+	"servicio.h"
+	"trabajo.h"
+
+1635346178 source:c:\users\usuario\desktop\utn tecnicatura\1er cuatri\programacion y lab i\1er parcial\mi parcial 22222222222\allende.francisco.p2lab1.1a\1er parcial lab 1 parte 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"auto.h"
+	"marca.h"
+	"color.h"
+	"servicio.h"
+	"trabajo.h"
+	"informes.h"
+
+1635341970 source:c:\users\usuario\desktop\utn tecnicatura\1er cuatri\programacion y lab i\1er parcial\mi parcial 22222222222\allende.francisco.p2lab1.1a\1er parcial lab 1 parte 2\marca.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"auto.h"
+	"marca.h"
+	"color.h"
+	"servicio.h"
+	"trabajo.h"
+
+1635341594 source:c:\users\usuario\desktop\utn tecnicatura\1er cuatri\programacion y lab i\1er parcial\mi parcial 22222222222\allende.francisco.p2lab1.1a\1er parcial lab 1 parte 2\servicio.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"auto.h"
+	"marca.h"
+	"color.h"
+	"servicio.h"
+	"trabajo.h"
+
+1635276633 source:c:\users\usuario\desktop\utn tecnicatura\1er cuatri\programacion y lab i\1er parcial\mi parcial 22222222222\allende.francisco.p2lab1.1a\1er parcial lab 1 parte 2\trabajo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"auto.h"
+	"marca.h"
+	"color.h"
+	"servicio.h"
+	"trabajo.h"
+
+1638281568 source:c:\users\usuario\desktop\recu lab\allende.francisco.parte2_del_1er_parcial_lab1.1a\allende.francisco.p2lab1.1a\recu 1er parcial lab1\color.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"auto.h"
+	"marca.h"
+	"color.h"
+	"servicio.h"
+	"trabajo.h"
+
+1638285996 c:\users\usuario\desktop\recu lab\allende.francisco.parte2_del_1er_parcial_lab1.1a\allende.francisco.p2lab1.1a\recu 1er parcial lab1\auto.h
+	"marca.h"
+	"color.h"
+	"servicio.h"
+	"trabajo.h"
+
+1638285992 c:\users\usuario\desktop\recu lab\allende.francisco.parte2_del_1er_parcial_lab1.1a\allende.francisco.p2lab1.1a\recu 1er parcial lab1\marca.h
+
+1638286011 c:\users\usuario\desktop\recu lab\allende.francisco.parte2_del_1er_parcial_lab1.1a\allende.francisco.p2lab1.1a\recu 1er parcial lab1\color.h
+
+1638285930 c:\users\usuario\desktop\recu lab\allende.francisco.parte2_del_1er_parcial_lab1.1a\allende.francisco.p2lab1.1a\recu 1er parcial lab1\servicio.h
+
+1638285916 c:\users\usuario\desktop\recu lab\allende.francisco.parte2_del_1er_parcial_lab1.1a\allende.francisco.p2lab1.1a\recu 1er parcial lab1\trabajo.h
+
+1638280704 source:c:\users\usuario\desktop\recu lab\allende.francisco.parte2_del_1er_parcial_lab1.1a\allende.francisco.p2lab1.1a\recu 1er parcial lab1\datawarehouseautos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"auto.h"
+	"marca.h"
+	"color.h"
+	"servicio.h"
+	"trabajo.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1638280773 source:c:\users\usuario\desktop\recu lab\allende.francisco.parte2_del_1er_parcial_lab1.1a\allende.francisco.p2lab1.1a\recu 1er parcial lab1\datawarehousetrabajos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"auto.h"
+	"marca.h"
+	"color.h"
+	"servicio.h"
+	"trabajo.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1638289511 source:c:\users\usuario\desktop\recu lab\allende.francisco.parte2_del_1er_parcial_lab1.1a\allende.francisco.p2lab1.1a\recu 1er parcial lab1\informes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"auto.h"
+	"marca.h"
+	"color.h"
+	"servicio.h"
+	"trabajo.h"
+	"informes.h"
+	"inputs.h"
+
+1638286080 c:\users\usuario\desktop\recu lab\allende.francisco.parte2_del_1er_parcial_lab1.1a\allende.francisco.p2lab1.1a\recu 1er parcial lab1\informes.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"auto.h"
+	"marca.h"
+	"color.h"
+	"servicio.h"
+	"trabajo.h"
+
+1638281630 source:c:\users\usuario\desktop\recu lab\allende.francisco.parte2_del_1er_parcial_lab1.1a\allende.francisco.p2lab1.1a\recu 1er parcial lab1\marca.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"auto.h"
+	"marca.h"
+	"color.h"
+	"servicio.h"
+	"trabajo.h"
+
+1638284184 source:c:\users\usuario\desktop\recu lab\allende.francisco.parte2_del_1er_parcial_lab1.1a\allende.francisco.p2lab1.1a\recu 1er parcial lab1\servicio.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"auto.h"
+	"marca.h"
+	"color.h"
+	"servicio.h"
+	"trabajo.h"
+
+1638285676 source:c:\users\usuario\desktop\recu lab\allende.francisco.parte2_del_1er_parcial_lab1.1a\allende.francisco.p2lab1.1a\recu 1er parcial lab1\auto.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"auto.h"
+	"marca.h"
+	"color.h"
+	"servicio.h"
+	"trabajo.h"
+	"inputs.h"
+
+1638232129 c:\users\usuario\desktop\recu lab\allende.francisco.parte2_del_1er_parcial_lab1.1a\allende.francisco.p2lab1.1a\recu 1er parcial lab1\menus&validaciones.h
+
+1638281263 source:c:\users\usuario\desktop\recu lab\allende.francisco.parte2_del_1er_parcial_lab1.1a\allende.francisco.p2lab1.1a\recu 1er parcial lab1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"auto.h"
+	"marca.h"
+	"color.h"
+	"servicio.h"
+	"trabajo.h"
+	"informes.h"
+	"inputs.h"
+
+1638288739 source:c:\users\usuario\desktop\recu lab\allende.francisco.parte2_del_1er_parcial_lab1.1a\allende.francisco.p2lab1.1a\recu 1er parcial lab1\trabajo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"auto.h"
+	"marca.h"
+	"color.h"
+	"servicio.h"
+	"trabajo.h"
+	"inputs.h"
+
+1638233631 c:\users\usuario\desktop\recu lab\allende.francisco.parte2_del_1er_parcial_lab1.1a\allende.francisco.p2lab1.1a\recu 1er parcial lab1\inputs.h
+
+1638283881 source:c:\users\usuario\desktop\recu lab\allende.francisco.parte2_del_1er_parcial_lab1.1a\allende.francisco.p2lab1.1a\recu 1er parcial lab1\inputs.c
+	<stdio.h>
+	<stdlib.h>
+	"inputs.h"
+
+1638368148 source:c:\users\usuario\desktop\recuperatorio labo1 1er parcial\allende.francisco.parte2_del_1er_parcial_lab1.1a\allende.francisco.recup1lab1.1a\recu 1er parcial lab1\alquiler.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"alquiler.h"
+	"cliente.h"
+	"inputs.h"
+
+1638368173 c:\users\usuario\desktop\recuperatorio labo1 1er parcial\allende.francisco.parte2_del_1er_parcial_lab1.1a\allende.francisco.recup1lab1.1a\recu 1er parcial lab1\alquiler.h
+	"cliente.h"
+
+1638364767 source:c:\users\usuario\desktop\recuperatorio labo1 1er parcial\allende.francisco.parte2_del_1er_parcial_lab1.1a\allende.francisco.recup1lab1.1a\recu 1er parcial lab1\cliente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"cliente.h"
+	"inputs.h"
+	"alquiler.h"
+
+1638363568 c:\users\usuario\desktop\recuperatorio labo1 1er parcial\allende.francisco.parte2_del_1er_parcial_lab1.1a\allende.francisco.recup1lab1.1a\recu 1er parcial lab1\cliente.h
+
+1638364110 source:c:\users\usuario\desktop\recuperatorio labo1 1er parcial\allende.francisco.parte2_del_1er_parcial_lab1.1a\allende.francisco.recup1lab1.1a\recu 1er parcial lab1\inputs.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"inputs.h"
+
+1638364136 c:\users\usuario\desktop\recuperatorio labo1 1er parcial\allende.francisco.parte2_del_1er_parcial_lab1.1a\allende.francisco.recup1lab1.1a\recu 1er parcial lab1\inputs.h
+
+1638367718 source:c:\users\usuario\desktop\recuperatorio labo1 1er parcial\allende.francisco.parte2_del_1er_parcial_lab1.1a\allende.francisco.recup1lab1.1a\recu 1er parcial lab1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"cliente.h"
+	"alquiler.h"
+	"inputs.h"
+

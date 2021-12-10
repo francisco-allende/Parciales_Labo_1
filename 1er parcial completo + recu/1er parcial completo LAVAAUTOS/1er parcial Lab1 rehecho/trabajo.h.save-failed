@@ -1,0 +1,79 @@
+#include "marca.h"
+#include "color.h"
+#include "servicio.h"
+
+
+
+
+
+
+#ifndef TRABAJO_H_INCLUDED
+#define TRABAJO_H_INCLUDED
+
+struct
+{
+    int dia;
+	int mes;
+	int anio;
+
+} typedef eFecha;
+
+struct
+{
+    int id;
+	int patente;
+	int idServicio;
+	int isEmpty;
+    eFecha fecha;
+
+} typedef eTrabajo;
+
+#endif // TRABAJO_H_INCLUDED
+
+
+
+/** \brief alta de un trabajo
+ *
+ * \param trabajos[] eTrabajo
+ * \param tam int
+ * \param indiceLibre int
+ * \param pId int*
+ * \param servicios[] eServicio
+ * \param tamSer int
+ * \param autos[] eAuto
+ * \param tamAuto int
+ * \param idTrabajo int*
+ * \return int
+ *
+ */
+int addTrabajo(eTrabajo trabajos[], int tam, int indiceLibre, int* pId, eServicio servicios[], int tamSer, eAuto autos[], int tamAuto, int* idTrabajo);
+
+/** \brief valida la fecha ingresada
+ *
+ * \param dia int
+ * \param mes int
+ * \param anio int
+ * \return int
+ *
+ */
+int validateDate(int dia, int mes, int anio);
+
+/** \brief inicializa con is empty 1
+ *
+ * \param trabajos[] eTrabajo
+ * \param tam int
+ * \return int
+ *
+ */
+int initTrabajo(eTrabajo trabajos[], int tam);
+
+/** \brief busca posicion libre para trabajo
+ *
+ * \param
+ * \param
+ * \return
+ *
+ */
+int searchFreePositionTrabajo(eTrabajo trabajos[], int tam);
+
+
